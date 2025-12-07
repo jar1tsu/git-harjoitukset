@@ -28,4 +28,8 @@ html {
     margin: auto;
     border: 1px solid grey;
   }
+  #datetime p {
+    margin: 4px 0;
+    font-size: 1.1rem;
+  }
   
